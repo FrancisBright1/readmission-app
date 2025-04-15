@@ -14,7 +14,7 @@ Hospital readmissions among diabetic patients can result in increased healthcare
 
 ## 🧠 Model Overview
 
-- **Model Type**: Logistic Regression / Random Forest / (Specify your model)
+- **Model Type**: Logistic Regression
 - **Target Variable**: Readmitted (Yes / No)
 - **Features Used**:
   - Age
