@@ -41,12 +41,4 @@ Hospital readmissions among diabetic patients can result in increased healthcare
 - matplotlib / seaborn
 - pickle (for model serialization)
 
-## 🗃️ Project Structure
-readmission_app/
-├── app.py                 # Streamlit application code
-├── model.pkl              # Trained machine learning model (serialized with pickle)
-├── X_columns.pkl          # Pickled list of feature columns used during model training
-├── requirements.txt       # List of required Python packages for the app to run
-├── README.md              # Documentation and usage guide (optional but recommended)
-├── .gitignore             # (Optional) Files/folders to ignore in Git
 
